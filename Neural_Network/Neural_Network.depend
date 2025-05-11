@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1746979246 source:c:\users\basmala\onedrive\documents\1ton_sheet1\neural_network\main.cpp
+	"NeuralNetwork.h"
+	<iostream>
+	<vector>
+
+1746979246 c:\users\basmala\onedrive\documents\1ton_sheet1\neural_network\include\neuralnetwork.h
+	<vector>
+	<iostream>
+	"ActivationFunctions.h"
+
+1746978416 c:\users\basmala\onedrive\documents\1ton_sheet1\neural_network\include\activationfunctions.h
+	<cmath>
+
+1746979614 source:c:\users\basmala\onedrive\documents\1ton_sheet1\neural_network\src\neuralnetwork.cpp
+	"NeuralNetwork.h"
+	<iostream>
+
