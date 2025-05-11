@@ -7,7 +7,7 @@
 
 class NeuralNetwork {
 private:
-    std::vector<double> inputLayer;  // تعديل إلى double
+    std::vector<double> inputLayer;  
     std::vector<std::vector<double>> hiddenLayers;
     std::vector<double> outputLayer;
     std::vector<int> activationFunctionChoices;
